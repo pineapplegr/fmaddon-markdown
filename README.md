@@ -15,7 +15,7 @@ To install, download or clone this repository and double-click on the `Markdown.
 
 To use the addon, you need to provide JSON properties to the `WebComponents.GetCode` function. Below is an example of how to set the markdown and optional CSS attributes:
 
-```json
+```
 WebComponents.GetCode ( "markdown" ; 
    JSONSetElement ( "{}" ; 
       ["markdown" ; "#Heading 1" ; 1];
@@ -32,7 +32,7 @@ WebComponents.GetCode ( "markdown" ;
 
 ## Example
 
-```json
+```
 WebComponents.GetCode ( "markdown" ; 
    JSONSetElement ( "{}" ; 
       ["markdown" ; "# Welcome to FileMaker Markdown Addon" ; 1];
