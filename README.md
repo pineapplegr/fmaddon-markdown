@@ -27,6 +27,8 @@ WebComponents.GetCode ( "markdown" ;
 
 We have provided the URL for [BambooCSS](https://github.com/mattdanielbrown/bamboo.css), which automatically adapts to light/dark mode based on the system settings. If you need only the light mode, use `https://unpkg.com/bamboo.css/dist/light.min.css` instead.
 
+You can use both CSS code and link references for the `css` attribute. However, we recommend checking out [this repository](https://github.com/dbohdan/classless-css) of Classless CSS frameworks.
+
 ### Attributes
 
 - `markdown`: The markdown text to be rendered as HTML.
