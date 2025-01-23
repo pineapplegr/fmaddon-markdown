@@ -25,6 +25,8 @@ WebComponents.GetCode ( "markdown" ;
 )
 ```
 
+We have provided the URL for [BambooCSS](https://github.com/mattdanielbrown/bamboo.css), which automatically adapts to light/dark mode based on the system settings. If you need only the light mode, use `https://unpkg.com/bamboo.css/dist/light.min.css` instead.
+
 ### Attributes
 
 - `markdown`: The markdown text to be rendered as HTML.
@@ -47,3 +49,6 @@ This example will render a heading with the text "Welcome to FileMaker Markdown 
 ## License
 
 This project is licensed under the MIT License.
+
+## Credits
+[Ian Jempson](https://github.com/IanJempson) for recommending the [markdownit](https://github.com/datopian/markdownit) package
