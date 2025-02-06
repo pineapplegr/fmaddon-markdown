@@ -53,4 +53,5 @@ This example will render a heading with the text "Welcome to FileMaker Markdown 
 This project is licensed under the MIT License.
 
 ## Credits
+[Markdownit](https://github.com/datopian/markdownit) for providing the functionality
 [Ian Jempson](https://github.com/IanJempson) for recommending the [markdownit](https://github.com/datopian/markdownit) package
